@@ -4,6 +4,7 @@
     <application
         android:theme="@android:style/Theme.Material.Light.NoActionBar"
         android:label="Daily Amal Tracker"
+        android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="false">
 
         <activity
